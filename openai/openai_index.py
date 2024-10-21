@@ -1,5 +1,5 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 import os
 from pinecone import Pinecone
@@ -9,12 +9,11 @@ from langchain_pinecone import PineconeVectorStore
 
 load_dotenv()
 
-embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", api_key=os.getenv("GOOGLE_API_KEY"), task_type="retrieval_document")
-
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 
 
 # Load example document
-with open("crawled_content.txt", encoding='utf-8') as f:
+with open("Cleaned_MOHAP.txt", encoding='utf-8') as f:
     MOHAP_data = f.read()
 
 text_splitter = RecursiveCharacterTextSplitter(
@@ -44,11 +43,11 @@ for text in texts:
 
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 
-index_name = "gemini-test"  
+index_name = "openai-test"  
 
 index = pc.Index(index_name)
 vector_store = PineconeVectorStore(index=index, embedding=embeddings)
-
+print(len(text_content))
 
 
 

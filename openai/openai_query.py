@@ -1,7 +1,7 @@
-from pinecone import Pinecone
+from pinecone import Pinecone, ServerlessSpec
 import os
 from langchain_pinecone import PineconeVectorStore
-from langchain_cohere import CohereEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
 import json
 load_dotenv()
@@ -9,10 +9,10 @@ load_dotenv()
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=pinecone_api_key)
 
-index_name = "cohere-test"
+index_name = "openai-test"
 index = pc.Index(index_name)
 
-embeddings = CohereEmbeddings(model="embed-multilingual-v3.0", cohere_api_key=os.getenv("COHERE_API_KEY"))
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 
 vector_store = PineconeVectorStore(index=index, embedding=embeddings)
 
@@ -29,5 +29,5 @@ for res in results:
 json_object = json.dumps(data_json, indent=2)
  
 # Writing to sample.json
-with open("./results/cohere_results.json", "w") as outfile:
+with open("./results/open_ai_results.json", "w") as outfile:
     outfile.write(json_object)

@@ -1,0 +1,514 @@
+Hard Questions
+[
+  {
+    "question": "What specific condition must be met for a health facility to be eligible to apply for narcotic drug quotas from MOHAP's central warehouses?",
+    "answer": "The facility must submit an official letter from the technical director, detailing the types, quantities, concentrations of narcotic drugs required, and the number of hospital beds and operations performed.",
+    "context": "This service allows hospitals and one-day surgery centers to apply for narcotic drug quotas for use within the facility.",
+    "source": "https://mohap.gov.ae/en/services/approve-narcotic-drugs-for-internal-pharmacies-at-private-hospitals"
+  },
+  {
+    "question": "How many beds must a hospital have before it can apply for the higher licensing fees of AED 30,000 for MOHAP approval?",
+    "answer": "Hospitals with 50 to 100 beds must pay AED 30,000 for final licensing fees.",
+    "context": "This fee applies to hospitals with a specific number of beds when applying for final licensing approval from MOHAP.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "Which specific document must be completed at the Customer Happiness Centers by the owner of a healthcare facility applying for licensing?",
+    "answer": "The owner must complete a character reference document, which is available at the Customer Happiness Centers.",
+    "context": "This service requires a character reference for licensing a healthcare facility under MOHAP regulations.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What is the exact document required from the Department of Economic Development for the final approval of a medical facility license?",
+    "answer": "A trade license issued by the Department of Economic Development is required for the final approval of a medical facility license.",
+    "context": "This document is part of the final approval process for healthcare facilities applying for a license under MOHAP.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What is the specific service classification for the 'Appeal Against Medical Licensing Committee Decisions' service?",
+    "answer": "The service classification for this appeal is 'Transactional' and the service type is 'Government to Business'.",
+    "context": "This service allows businesses and professionals to appeal decisions made by the Medical Licensing Committee.",
+    "source": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions"
+  },
+  {
+    "question": "What is the minimum number of days it takes to receive engineering team approval after submitting a request for health facility inspection?",
+    "answer": "It takes a minimum of 2 working days to receive engineering team approval after submitting an inspection request.",
+    "context": "This service involves inspecting the facility before approval is granted for licensing.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "Which exact document must include the names of all licensed doctors and technicians within a healthcare facility when applying for a visiting doctor license?",
+    "answer": "A list of licensed doctors and technicians in the facility must be included when applying for a visiting doctor license.",
+    "context": "This is required when applying for the service allowing a visiting doctor to practice at a private healthcare facility.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-a-visiting-doctor-from-the-uae"
+  },
+  {
+    "question": "What is the exact fee for re-verifying a geometric site plan for a general clinic or medical center?",
+    "answer": "The fee for re-verifying a geometric site plan for a general clinic or medical center is AED 500.",
+    "context": "This service requires a fee for re-verifying geometric site plans during the healthcare facility licensing process.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What specific exclusion applies to the issuance of a good professional conduct certificate for health professionals?",
+    "answer": "A good professional conduct certificate will not be issued to those who have only an initial license from the Ministry of Health and Prevention.",
+    "context": "This service issues good professional conduct certificates to licensed health professionals in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"
+  },
+  {
+    "question": "What exact documentation must be submitted if a health professional’s license has been canceled and they are applying for a good standing certificate?",
+    "answer": "A license cancellation letter from MOHAP must be submitted when applying for a good standing certificate after license cancellation.",
+    "context": "This service provides good standing certificates for health professionals who have held MOHAP licenses.",
+    "source": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"
+  }
+  {
+    "question": "What is the maximum number of specialties a diagnostic center can add before incurring only AED 100 per additional specialty?",
+    "answer": "A diagnostic center can add up to 3 specialties before incurring AED 100 per additional specialty.",
+    "context": "This service allows diagnostic centers to add new specialties, with specific fee structures depending on the number of specialties.",
+    "source": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities"
+  },
+  {
+    "question": "For how long is the initial approval of a medical facility’s license valid, and what does it allow the owner to do?",
+    "answer": "The initial approval is valid for 6 months and allows the owner to meet the technical requirements for obtaining a MOHAP license but does not permit the facility to practice or operate.",
+    "context": "The initial approval grants time for the facility to complete technical requirements, but does not authorize operation.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What specific document must be signed by the supervising pharmacist or doctor when applying for approval to modify narcotic drugs quotas?",
+    "answer": "Form F6, 'Approval/Determination or Modification of Quotas of the Drugs,' must be signed by the supervising pharmacist or doctor.",
+    "context": "This service allows hospitals and one-day surgery clinics to modify narcotic drug quotas for internal pharmacies.",
+    "source": "https://mohap.gov.ae/en/services/approve-narcotic-drugs-for-internal-pharmacies-at-private-hospitals"
+  },
+  {
+    "question": "How many transactions were processed for the service 'Approve Narcotic Drugs for Internal Pharmacies at Private Hospitals' according to MOHAP records?",
+    "answer": "There were 8 transactions processed for this service according to MOHAP records.",
+    "context": "This service allows hospitals and day surgery centers to apply for approval to purchase narcotic drugs.",
+    "source": "https://mohap.gov.ae/en/services/approve-narcotic-drugs-for-internal-pharmacies-at-private-hospitals"
+  },
+  {
+    "question": "What is the exact timeframe for submitting an appeal against a Medical Licensing Committee decision after receiving the decision?",
+    "answer": "An appeal must be submitted within 15 days from the date of receiving the decision.",
+    "context": "This service allows healthcare professionals and establishments to appeal against decisions made by the Medical Licensing Committee.",
+    "source": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions"
+  },
+  {
+    "question": "Which document must be presented at the General Directorate of Residency and Foreigners’ Affairs if parents choose to collect the newborn’s documents through the 'Mabrouk Ma Yak' service in person?",
+    "answer": "Parents must present the original family data at the General Directorate of Residency and Foreigners’ Affairs when collecting the newborn’s documents.",
+    "context": "'Mabrouk Ma Yak' provides newborn Emiratis with multiple identification documents, including options for collection and delivery.",
+    "source": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak"
+  },
+  {
+    "question": "What are the exact conditions under which a good professional conduct certificate cannot be issued to a health professional?",
+    "answer": "A good professional conduct certificate cannot be issued to a trainee, a visitor, someone with an initial license, or anyone not licensed by the Ministry of Health and Prevention.",
+    "context": "This service provides good professional conduct certificates for health professionals under specific conditions.",
+    "source": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"
+  },
+  {
+    "question": "What is the service classification and service type for 'Registration of a Medical Equipment' under MOHAP?",
+    "answer": "The service classification is 'Transactional' and the service type is 'Government to Business.'",
+    "context": "This service allows businesses to register medical equipment for use in healthcare facilities.",
+    "source": "https://mohap.gov.ae/en/services/registration-of-a-medical-equipment"
+  },
+  {
+    "question": "Which regulatory entity must issue a radiation protection license for healthcare facilities in the UAE?",
+    "answer": "The Federal Authority for Nuclear Regulation must issue the radiation protection license.",
+    "context": "Healthcare facilities requiring radiation services must obtain a license from the Federal Authority for Nuclear Regulation.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What is the email address for submitting inquiries about controlled chemicals to MOHAP?",
+    "answer": "The email address is controlledchemicals@mohap.gov.ae.",
+    "context": "This contact information is provided for inquiries related to the regulation of anesthetic drugs and chemical precursors.",
+    "source": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book"
+  }
+]
+
+
+[
+  {
+    "question": "What is the completion duration for adding a new specialty to a private health facility?",
+    "answer": "The completion duration is 2 working days.",
+    "context": "This service allows medical, diagnostic, and rehabilitation facilities to add new specialties to their licenses.",
+    "source": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities"
+  },
+  {
+    "question": "What are the fees for adding a new specialty to a medical center?",
+    "answer": "The fee for adding a new specialty to a medical center is AED 6,000 per specialty, up to a maximum payment for 3 specialties.",
+    "context": "This service allows medical centers to add new specialties to their licenses.",
+    "source": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities"
+  },
+  {
+    "question": "What documents are required for the renewal of a license to practice as a doctor in the UAE?",
+    "answer": "Required documents include a recent medical report for doctors above 60, Continuous Medical Education (CME) certificate, valid insurance, labor card, national ID, and visa copy.",
+    "context": "This service allows medical facilities to renew the licenses of physicians and dentists.",
+    "source": "https://mohap.gov.ae/en/services/renewal-of-a-license-to-practice-as-a-doctor"
+  },
+  {
+    "question": "What is the fee for renewing a doctor's license in the private sector?",
+    "answer": "The fee for renewing a doctor's license in the private sector is AED 3,000.",
+    "context": "This service allows for the renewal of licenses for doctors and dentists in various health facilities.",
+    "source": "https://mohap.gov.ae/en/services/renewal-of-a-license-to-practice-as-a-doctor"
+  },
+  {
+    "question": "What is the service completion time for registering medical equipment?",
+    "answer": "The completion duration for registering medical equipment is 7 working days.",
+    "context": "This service allows the registration of medical equipment with the Ministry of Health and Prevention.",
+    "source": "https://mohap.gov.ae/en/services/registration-of-a-medical-equipment"
+  },
+  {
+    "question": "What is the fee for changing the name of a medical facility in the UAE?",
+    "answer": "The fee for changing the name of a medical facility is AED 1,000.",
+    "context": "This service allows changes to the names of licensed medical facilities in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/changing-the-name-submit-the-service-application-online"
+  },
+  {
+    "question": "How long does it take to issue a controlled drugs prescription book?",
+    "answer": "The service completion duration is 3 working days.",
+    "context": "This service allows healthcare establishments to apply for controlled drugs prescription books.",
+    "source": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book"
+  },
+  {
+    "question": "What documents are required for the licensing of a private healthcare facility?",
+    "answer": "Required documents include the owner's passport, Emirates ID, family book, and the facility's architectural plan.",
+    "context": "This service allows healthcare facilities to obtain licenses for practicing health services in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What is the fee for submitting a licensing application for a health facility?",
+    "answer": "The fee for submitting a licensing application for a health facility is AED 100.",
+    "context": "This service allows healthcare facilities to apply for licenses to operate in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What is the process to appeal a decision from the Medical Licensing Committee?",
+    "answer": "An appeal must be submitted to the Office of the Minister of Health, after which the documents will be reviewed by the Grievance Committee.",
+    "context": "This service enables healthcare professionals and establishments to appeal decisions made by the Medical Licensing Committee.",
+    "source": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions"
+  }
+]
+
+[
+  {
+    "question": "What is the fee for a good professional conduct certificate for pharmacists?",
+    "answer": "The fee for a good professional conduct certificate for pharmacists is AED 300.",
+    "context": "This service allows medical staff from public and private sectors to apply for a certificate of good professional conduct.",
+    "source": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"
+  },
+  {
+    "question": "How long is the good professional conduct certificate valid for?",
+    "answer": "The certificate is valid for 6 months from the date of issuance.",
+    "context": "The service provides a certificate of good professional conduct for health professionals in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"
+  },
+  {
+    "question": "How long does it take to process an appeal against Medical Licensing Committee decisions?",
+    "answer": "The service completion duration is 30 working days.",
+    "context": "This service enables the owners of medical and pharmaceutical establishments, and members of their medical teams, to appeal decisions of the Medical Licensing Committee.",
+    "source": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions"
+  },
+  {
+    "question": "What is the service fee for licensing a visiting doctor from outside the UAE?",
+    "answer": "The fee for licensing a visiting doctor from outside the UAE is AED 4,000.",
+    "context": "This service allows medical facilities to apply for approval for a visiting doctor from the UAE or abroad to practice in a private health facility.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-a-visiting-doctor-from-the-uae"
+  },
+  {
+    "question": "What documents are required for a facility to apply for narcotic drugs quotas?",
+    "answer": "Required documents include a copy of the valid hospital license, pharmacy license, and a letter from the technical director of the hospital with details about the narcotic drugs needed.",
+    "context": "This service allows hospitals and day surgery centers to apply for approval to purchase narcotic drugs for use within their establishment.",
+    "source": "https://mohap.gov.ae/en/services/approve-narcotic-drugs-for-internal-pharmacies-at-private-hospitals"
+  },
+  {
+    "question": "How much is the fee for changing the name of a pharmaceutical facility?",
+    "answer": "The fee for changing the name of a pharmaceutical facility is AED 1,000.",
+    "context": "This service allows pharmaceutical facilities to apply for an amendment to the company’s registered name.",
+    "source": "https://mohap.gov.ae/en/services/application-to-change-the-name-of-a-pharmaceutical-facility"
+  },
+  {
+    "question": "What services does the 'Mabrouk Ma Yak' initiative provide for newborn Emiratis?",
+    "answer": "Under 'Mabrouk Ma Yak', newborn Emiratis can receive a birth certificate, passport, Emirates ID, health insurance card, and be registered in the population register.",
+    "context": "'Mabrouk Ma Yak' is an integrated service that provides multiple identification documents for newborn Emiratis.",
+    "source": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak"
+  },
+  {
+    "question": "What are the required documents to apply for an online pharmacy permit?",
+    "answer": "A valid trade license, a valid pharmacy license, and a valid pharmacist license are required.",
+    "context": "This service enables the issuance or cancellation of an online permit for pharmacies.",
+    "source": "https://mohap.gov.ae/en/services/issue-cancel-online-pharmacy-permit"
+  },
+  {
+    "question": "What is the service fee for renewing a healthcare advertisement license in a medical or commercial directory?",
+    "answer": "The fee for renewing a healthcare advertisement license is AED 1,000.",
+    "context": "This service allows customers to apply for the renewal of a license for healthcare advertisement in a medical or commercial directory.",
+    "source": "https://mohap.gov.ae/en/services/renewal-of-a-license-for-a-healthcare-advertisement-in-a-medical-or-commercial-directory"
+  },
+  {
+    "question": "What are the requirements for changing the name of a licensed health facility?",
+    "answer": "The facility must have been open and practicing its commercial activity with a valid license for more than 6 months.",
+    "context": "This service allows changes to the names of licensed health facilities, including clinics, hospitals, and rehabilitation centers.",
+    "source": "https://mohap.gov.ae/en/services/changing-the-name-submit-the-service-application-online"
+  }
+]
+
+
+[
+  {
+    "question": "What is the service completion duration for providing a controlled drugs prescription book?",
+    "answer": "The service completion duration is 3 working days.",
+    "context": "This service enables medical establishments to submit applications to receive controlled drugs prescription pads for inpatient controlled medicines.",
+    "source": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book"
+  },
+  {
+    "question": "What are the fees for issuing a controlled drugs prescription book?",
+    "answer": "The fee for issuing a controlled drugs prescription book is AED 100.",
+    "context": "The service allows healthcare facilities to receive controlled drugs prescription pads for prescribing controlled medicines.",
+    "source": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book"
+  },
+  {
+    "question": "Who is eligible to apply for a health facility license in the UAE?",
+    "answer": "Investors in the health sector, including public and specialized clinics, medical centers, hospitals, and diagnostic centers, are eligible to apply for a health facility license.",
+    "context": "This service allows health facilities to obtain the necessary license to provide health and treatment services in the UAE.",
+    "source": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"
+  },
+  {
+    "question": "What documents are required for the renewal of a healthcare advertisement license?",
+    "answer": "Valid licenses of the service provider, valid registration or classification certificates for any products or pharmaceuticals mentioned in the advertisement, and additional documents depending on the ad format are required.",
+    "context": "This service allows customers to apply for the renewal of a license for a healthcare advertisement in a medical or commercial directory.",
+    "source": "https://mohap.gov.ae/en/services/renewal-of-a-license-for-a-healthcare-advertisement-in-a-medical-or-commercial-directory"
+  },
+  {
+    "question": "What are the conditions for applying for a 'Mabrouk Ma Yak' service?",
+    "answer": "The father must apply within 3 months of the baby's birth, be a UAE National, and have a verified UAE Pass account. The baby must be born at a hospital providing the Mabrouk Ma Yak service.",
+    "context": "'Mabrouk Ma Yak' is an integrated service for newborn Emiratis to receive a birth certificate, passport, Emirates ID, and other documents.",
+    "source": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak"
+  }
+]
+
+
+
+[
+    {
+      "question": "What is the purpose of the 'Mabrouk Ma Yak' service?",
+      "answer": "Mabrouk Ma Yak is an integrated eService for newborn Emiratis that provides birth certificates, passports, Emirates ID cards, and other documents.",
+      "context": "The document describes various government services provided by the UAE Ministry of Health and Prevention."
+    },
+    {
+      "question": "What is required to apply for the 'Mabrouk Ma Yak' service?",
+      "answer": "The father must apply within 3 months of the baby's birth, be a UAE National, have a verified UAE Pass account, and the baby must be born at a participating hospital.",
+      "context": "The service requirements are listed in the Mabrouk Ma Yak section."
+    },
+    {
+      "question": "What is the purpose of the 'Attestation of Medical Leaves and Reports' service?",
+      "answer": "This service allows for the attestation of sick leaves and medical reports issued by private or government health facilities to be provided to employers.",
+      "context": "The service is described in the 'Attestation of Medical Leaves and Reports' section."
+    },
+    {
+      "question": "How long does it take to complete the 'Attestation of Medical Leaves and Reports' service?",
+      "answer": "The service takes 2 working days for electronic applications, or 5 additional working days if review by a medical committee is required.",
+      "context": "The service completion duration is listed in the service details."
+    },
+    {
+      "question": "What is the fee for the 'Attestation of Medical Leaves and Reports' service?",
+      "answer": "The fee is AED 50.",
+      "context": "The fee is listed in the service details."
+    },
+    {
+      "question": "What is the purpose of the 'Licensing of a Pharmaceutical Facility' service?",
+      "answer": "This service allows customers to apply for a license to establish a pharmaceutical facility to sell, import, distribute, or manufacture pharmaceutical products and medical supplies.",
+      "context": "The service description is provided in the 'Licensing of a Pharmaceutical Facility' section."
+    },
+    {
+      "question": "What are the fees for licensing a pharmacy or warehouse?",
+      "answer": "The application fee is AED 100, and the final license fee for pharmacies and warehouses is AED 7,500.",
+      "context": "The fees are listed in the 'Licensing of a Pharmaceutical Facility' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Renewal of a Pharmaceutical Facility License' service?",
+      "answer": "This service allows for the renewal of expired pharmaceutical facility licenses to continue selling, importing, and distributing pharmaceutical products and medical supplies.",
+      "context": "The service description is provided in the 'Renewal of a Pharmaceutical Facility License' section."
+    },
+    {
+      "question": "What is the fee for renewing a pharmacy or warehouse license?",
+      "answer": "The application fee is AED 100, and the final license renewal fee for pharmacies and warehouses is AED 7,500.",
+      "context": "The fees are listed in the 'Renewal of a Pharmaceutical Facility License' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of Permit to Import Medical Equipment' service?",
+      "answer": "This service allows obtaining a permit to import medical equipment for local agents who hold a valid medical store license issued by MOHAP.",
+      "context": "The service description is provided in the 'Issue of Permit to Import Medical Equipment' section."
+    },
+    {
+      "question": "What are the fees for importing medical equipment?",
+      "answer": "The application fee is AED 100, and the shipment clearance issuance fee is 1% of the invoice value for the CIF price, not less than AED 200 per invoice.",
+      "context": "The fees are listed in the 'Issue of Permit to Import Medical Equipment' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Registration of a Conventional Pharmaceutical Product' service?",
+      "answer": "This service enables clients to submit applications to register conventional, biological or other human pharmaceutical products for importation and trading within the UAE.",
+      "context": "The service description is provided in the 'Registration of a Conventional Pharmaceutical Product' section."
+    },
+    {
+      "question": "What are the fees for registering a conventional pharmaceutical product?",
+      "answer": "The application fee is AED 100, and the registration fee for a conventional pharmaceutical product is AED 7,000.",
+      "context": "The fees are listed in the 'Registration of a Conventional Pharmaceutical Product' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Renewal of Registration of a Conventional Pharmaceutical Product' service?",
+      "answer": "This service enables clients to submit applications to renew the registration of conventional, biological or other human pharmaceutical products for importation and trading within the UAE.",
+      "context": "The service description is provided in the 'Renewal of Registration of a Conventional Pharmaceutical Product' section."
+    },
+    {
+      "question": "What are the fees for renewing the registration of a conventional pharmaceutical product?",
+      "answer": "The application fee is AED 100, and the renewal fee for registration of a conventional biological pharmaceutical product is AED 3,500.",
+      "context": "The fees are listed in the 'Renewal of Registration of a Conventional Pharmaceutical Product' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of a Certificate of Amendment of Registered Pharmaceutical Products' service?",
+      "answer": "This service enables clients to submit applications for certificates of amendment to any previously registered product data including traditional and human products, products derived from natural sources, products for general sale, and others.",
+      "context": "The service description is provided in the 'Issue of a Certificate of Amendment of Registered Pharmaceutical Products' section."
+    },
+    {
+      "question": "What is the fee for issuing a certificate of amendment for registered pharmaceutical products?",
+      "answer": "The fee for a certificate of amendment to any registered medical product data is AED 1000.",
+      "context": "The fee is listed in the 'Issue of a Certificate of Amendment of Registered Pharmaceutical Products' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of a Certificate of a Pharmaceutical Product for Export' service?",
+      "answer": "This service enables pharmaceutical manufacturers inside the UAE to apply for a pharmaceutical product certificate for the purpose of exporting such products.",
+      "context": "The service description is provided in the 'Issue of a Certificate of a Pharmaceutical Product for Export' section."
+    },
+    {
+      "question": "What is the fee for issuing a certificate of a pharmaceutical product for export?",
+      "answer": "The fee for a certificate for an export pharmaceutical product is 1000 AED.",
+      "context": "The fee is listed in the 'Issue of a Certificate of a Pharmaceutical Product for Export' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Registration of a Manufacturer of Medical Products' service?",
+      "answer": "This service allows the registration of the manufacturing sites of medical products (human) in UAE.",
+      "context": "The service description is provided in the 'Registration of a Manufacturer of Medical Products' section."
+    },
+    {
+      "question": "What are the fees for registering a manufacturer of medical products?",
+      "answer": "The application fee is AED 100, and the registration fee for a medical products manufacturer is AED 10,000.",
+      "context": "The fees are listed in the 'Registration of a Manufacturer of Medical Products' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Renewal of the Registration of a Manufacturer of Medical Products' service?",
+      "answer": "This service allows the renewal of the registration of the manufacturing sites of medical products (human) registered in UAE MOHAP.",
+      "context": "The service description is provided in the 'Renewal of the Registration of a Manufacturer of Medical Products' section."
+    },
+    {
+      "question": "What are the fees for renewing the registration of a manufacturer of medical products?",
+      "answer": "The application fee is AED 100, and the renewal fee for registration of a medical products manufacturer is AED 10,000.",
+      "context": "The fees are listed in the 'Renewal of the Registration of a Manufacturer of Medical Products' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Registration of a Pharmaceutical Product for General Sale' service?",
+      "answer": "This service enables the registration of simple pharmaceutical products with limited medicinal usage, which cannot be considered medicines and are intended for general sale, such as dietary supplements, medical cosmetics and medical disinfectants.",
+      "context": "The service description is provided in the 'Registration of a Pharmaceutical Product for General Sale' section."
+    },
+    {
+      "question": "What are the fees for registering a pharmaceutical product for general sale?",
+      "answer": "The application fee is AED 100, and the registration fee for a pharmaceutical product for general sale is AED 5,000.",
+      "context": "The fees are listed in the 'Registration of a Pharmaceutical Product for General Sale' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Renewal of Registration of a Pharmaceutical Product for General Sale' service?",
+      "answer": "This service enables applications for the renewal of registrations of simple pharmaceutical products with limited medicinal usage, which cannot be considered medicines and are intended for general sale.",
+      "context": "The service description is provided in the 'Renewal of Registration of a Pharmaceutical Product for General Sale' section."
+    },
+    {
+      "question": "What are the fees for renewing the registration of a pharmaceutical product for general sale?",
+      "answer": "The application fee is AED 100, and the renewal fee for registration of a pharmaceutical product for general sale is AED 2,500.",
+      "context": "The fees are listed in the 'Renewal of Registration of a Pharmaceutical Product for General Sale' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Registration of a Medical Equipment' service?",
+      "answer": "This service allows the registration of medical equipment with the purpose of importing and trading them in UAE.",
+      "context": "The service description is provided in the 'Registration of a Medical Equipment' section."
+    },
+    {
+      "question": "What are the fees for registering medical equipment?",
+      "answer": "The application fee is AED 100, and the registration fee for a medical device is AED 5,000.",
+      "context": "The fees are listed in the 'Registration of a Medical Equipment' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Renewal of Registration of Medical Equipment' service?",
+      "answer": "This service allows the renewal of registration of medical equipment with the purpose of importing and trading them in UAE.",
+      "context": "The service description is provided in the 'Renewal of Registration of Medical Equipment' section."
+    },
+    {
+      "question": "What are the fees for renewing the registration of medical equipment?",
+      "answer": "The application fee is AED 100, and the renewal fee for the registration of a medical device is AED 2,500.",
+      "context": "The fees are listed in the 'Renewal of Registration of Medical Equipment' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Assessment of Medical Products for Pharmacological Research and Clinical Studies of Drugs' service?",
+      "answer": "This service enables clients to apply for the receipt, assessment and approval of medical products for medical research and clinical studies of drugs, in accordance with the 'Guidelines for Conducting Clinical Trials of Medicines and Medical Devices According to Good Clinical Practices' of 2017.",
+      "context": "The service description is provided in the 'Assessment of Medical Products for Pharmacological Research and Clinical Studies of Drugs' section."
+    },
+    {
+      "question": "What is the fee for assessment of medical products for pharmacological research and clinical studies?",
+      "answer": "The fee is 5000 AED.",
+      "context": "The fee is listed in the 'Assessment of Medical Products for Pharmacological Research and Clinical Studies of Drugs' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of a Single Medical Product Pricing Certificate' service?",
+      "answer": "This service enables clients to apply for a single product pricing certificate for pharmaceutical companies that have registered pharmaceutical products for importation and marketing within the UAE.",
+      "context": "The service description is provided in the 'Issue of a Single Medical Product Pricing Certificate' section."
+    },
+    {
+      "question": "What is the fee for issuing a single medical product pricing certificate?",
+      "answer": "The fee for a pricing certificate per medical product is 500 AED.",
+      "context": "The fee is listed in the 'Issue of a Single Medical Product Pricing Certificate' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Re-Pricing of a Medicine' service?",
+      "answer": "This service enables pharmaceutical companies that have registered pharmaceutical products for importation and marketing within the UAE to apply for the re-pricing of a product.",
+      "context": "The service description is provided in the 'Re-Pricing of a Medicine' section."
+    },
+    {
+      "question": "What are the fees for re-pricing a medicine?",
+      "answer": "The fee for re-pricing per medical product is AED 1000, and the fee for a new pricing certificate is AED 500.",
+      "context": "The fees are listed in the 'Re-Pricing of a Medicine' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of a Certificate to Amend the Registration Data of a Medical Company or a Manufacturer Licensed to Market' service?",
+      "answer": "This service enables medical companies and manufacturers to submit their applications to amend their registration data.",
+      "context": "The service description is provided in the 'Amend the Registration Data of a Medical Company or a Manufacturer Licensed to Market' section."
+    },
+    {
+      "question": "What is the fee for issuing a certificate to amend the registration data of a medical company or manufacturer?",
+      "answer": "The fee for a certificate of amendment to any registration data of a medical company or a manufacturer with marketing rights is 2000 AED.",
+      "context": "The fee is listed in the 'Amend the Registration Data of a Medical Company or a Manufacturer Licensed to Market' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Issue of a Certificate of Free Sale of a Medical Product for Export' service?",
+      "answer": "This service enables pharmaceutical manufacturers within the UAE to submit applications for a free sale certificate for a pharmaceutical product intended for export outside the country.",
+      "context": "The service description is provided in the 'Issue of a Certificate of Free Sale of a Medical Product for Export' section."
+    },
+    {
+      "question": "What is the fee for issuing a certificate of free sale of a medical product for export?",
+      "answer": "The fee for a free sale certificate for an export medical product is 1000 AED.",
+      "context": "The fee is listed in the 'Issue of a Certificate of Free Sale of a Medical Product for Export' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Registration of a Pharmaceutical Product Derived from Natural Sources' service?",
+      "answer": "This service allows the registration of pharmaceutical products derived from natural sources such as medicinal plants and animals.",
+      "context": "The service description is provided in the 'Registration of A Pharmaceutical Product Derived from Natural Sources' section."
+    },
+    {
+      "question": "What are the fees for registering a pharmaceutical product derived from natural sources?",
+      "answer": "The application fee is 100 AED, and the registration fee for a pharmaceutical product derived from natural sources is 5,000 AED.",
+      "context": "The fees are listed in the 'Registration of A Pharmaceutical Product Derived from Natural Sources' service details."
+    },
+    {
+      "question": "What is the purpose of the 'Classification of a product' service?",
+      "answer": "This service allows the classification of products of all types and forms based on Presentation /Composition / Use and Design. Requirements may vary based on the nature of the product, risk class and regulatory status.",
+      "context": "The service description is provided in the 'Classification of a product' section."
+    }]
+[{"question": "What specific condition applies to the issuance of a Good Standing Certificate for health professionals regarding their licensing status with MOHAP?", "answer": "The customer must be licensed by the Ministry of Health and Prevention for more than 3 months.", "context": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional"}, {"question": "If a healthcare professional has been found guilty of a medical offense, what impact will this have on their application for a Good Standing Certificate?", "answer": "The certificate will not be issued.", "context": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional - The customer must not have been sentenced for a medical offense or violation that prohibits the issuance of the certificate"}, {"question": "For a pharmacist working in a private sector facility, what specific attestation is required on their experience letter for a Good Standing Certificate application?", "answer": "Certified by the Department of Medicine in the Ministry of Health and Prevention.", "context": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional - For the pharmacist or assistant pharmacist: A letter of experience from the employer, certified by the Department of Medicine in the Ministry of Health and Prevention"}, {"question": "What is the appeal process for contesting decisions made by the Medical Licensing Committee, and what is the deadline for submitting an appeal?", "answer": "An appeal should be submitted to the Office of the Minister of Health and Prevention within 15 days of receiving the committee's decision.", "context": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions"}, {"question": "Where should the appeal against the Medical Licensing Committee's decision be addressed, and to whom specifically?", "answer": "The appeal letter must be addressed to the Minister of Health and Prevention, not to any other agent or person.", "context": "https://mohap.gov.ae/en/services/appeal-against-medical-licensing-committee-decisions - A letter of appeal addressed to the Minister of Health and Prevention, and no other agent or person."}, {"question": "What is the name of the service that enables pharmaceutical facilities to apply for an amendment to the company's registered name?", "answer": "Application to Change the Name of a Pharmaceutical Facility", "context": "https://mohap.gov.ae/en/services/application-to-change-the-name-of-a-pharmaceutical-facility"}, {"question": "What is the fee for changing the name of a pharmaceutical facility after the initial application fee has been paid?", "answer": "AED 1,000", "context": "https://mohap.gov.ae/en/services/application-to-change-the-name-of-a-pharmaceutical-facility - Fee to change facility name: AED 1,000"}, {"question": "Can a non-national own a health facility in the UAE? If so, what condition applies?", "answer": "Yes, a non-national can own a health facility, provided they receive an approval letter from the local authority regarding the percentage of foreign ownership allowed.", "context": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities"}, {"question": "What specific requirement regarding elevators must high-rise health facilities in the UAE comply with?", "answer": "They must install an electric elevator.", "context": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities - An electric elevator must be installed if the facility consists of high floors."}, {"question": "What is the process for a healthcare facility to request a 'letter of no objection/to whom it may concern' for transactions with other government entities?", "answer": "Visit the Customer Happiness Center in the Medical District where the facility is located.", "context": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities - You can visit the Customer Happiness Center in the Medical District where the facility is located"}, {"question": "If a healthcare facility wants to add a new specialty, what is a key operational requirement they must meet?", "answer": "The facility must have been open and commercially operating with a valid license for longer than 6 months.", "context": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities"}, {"question": "Is there a limit to the number of additional specialties a medical center can apply for at the full price of AED 6,000 each?", "answer": "Yes, the full fee applies to the first three specialties only.", "context": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities - Additional Specialty fees: AED 6,000 each, up to a maximum payment for 3 specialties"}, {"question": "What is the fee for each additional specialty applied for by a medical center after the first three?", "answer": "AED 100", "context": "https://mohap.gov.ae/en/services/adding-a-new-specialty-to-private-health-facilities"}, {"question": "To change the technical director of a private medical facility, what is the fee?", "answer": "AED 1,000", "context": "https://mohap.gov.ae/en/services/changing-the-technical-director-of-a-private-medical-facility"}, {"question": "Who manages a long-term care home, according to MOHAP's requirements?", "answer": "A specialized professional with an accredited academic qualification in the same field of nursing home specialization.", "context": "https://mohap.gov.ae/en/services/changing-the-technical-director-of-a-private-medical-facility"}, {"question": "Can a technical director manage multiple private health facilities in the UAE according to MOHAP regulations?", "answer": "Yes, according to the controls and conditions set by the health authority.", "context": "https://mohap.gov.ae/en/services/changing-the-technical-director-of-a-private-medical-facility"}
+]
+
+
+[{"question": "What is the fee for obtaining a controlled drugs prescription book for medical establishments in the UAE, according to the crawled content?", "answer": "AED 100", "context": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book - Book Fees: AED 100"}, {"question": "Within how many working days can a medical establishment expect to receive a controlled drugs prescription book after applying through the MoHAP service?", "answer": "3", "context": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book - Service completion duration 3 working days"}, {"question": "If a hospital's application for a controlled drugs prescription book is approved, how is the book delivered?", "answer": "By courier", "context": "https://mohap.gov.ae/en/services/provide-controlled-drugs-prescription-book - Once the payment is processed, the controlled prescription book will be sent to the customer by courier"}, {"question": "What is the validity period of the initial approval for a health facility license issued by MOHAP?", "answer": "Six months", "context": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities - Initial approval will be valid for six (6) months only"}, {"question": "Does the initial approval for a health facility license issued by MOHAP grant the facility the right to start operations?", "answer": "No, it does not.  The initial approval is only for completing the remaining licensing requirements.", "context": "https://mohap.gov.ae/en/services/licensing-of-private-medical-facilities - The initial approval does not imply the approval to practice or operate the facility; it is only granted in order to complete the procedures required to obtain the license."}, {"question": "If a health facility's license has been cancelled, within what timeframe can they apply for re-licensing to avoid fines?", "answer": "6 months", "context": "https://mohap.gov.ae/en/services/renewal-of-a-private-medical-facility-license - If such renewal is delayed, fines will be calculated at a rate of 25% of the facility's basic fee for every 30 days up to 6 months. After the 6-month period, the license will be legally cancelled."}, {"question": "What is the maximum number of healthcare facilities a visiting doctor from the UAE can work in concurrently?", "answer": "Two", "context": "https://mohap.gov.ae/en/services/licensing-of-a-visiting-doctor-from-the-uae, https://mohap.gov.ae/en/services/licensing-of-a-visiting-foreign-doctor - Visiting doctors may work in no more than two entities."}, {"question": "If an applicant's DataFlow report result is 'not verified', can they still be licensed for a nursing or medical professional role by MOHAP?", "answer": "Yes", "context": "https://mohap.gov.ae/en/services/license-for-nursing-and-medical-professionals - DataFlow report should be 'positive' or 'not verified'."}, {"question": "According to MOHAP, if a doctor is aged 60 or above, what additional requirement is necessary for renewing their license to practice?", "answer": "A medical report", "context": "https://mohap.gov.ae/en/services/renewal-of-a-license-to-practice-as-a-doctor - A medical report is required if the doctor is 60 years and above."}, {"question": "How many attempts are allowed for each category of the MOHAP medical licensing exam?", "answer": "Three", "context": "https://mohap.gov.ae/en/services/renewal-of-registration-certificate-to-practice-nursing-and-midwifery - Examinations may be attempted a maximum of three times"}, {"question": "To apply for a certificate of good standing for a health professional in the private sector, what specific document related to their experience is required by MOHAP?", "answer": "An experience certificate issued from the private medical facility, approved by the medical director", "context": "https://mohap.gov.ae/en/services/issue-of-good-professional-conduct-certificates-for-health-professional - Required Documents"}, {"question": "Is the Mabrouk Ma Yak service available for all nationalities residing in the UAE?", "answer": "No, only for newborn Emiratis (UAE Nationals).", "context": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak - Mabrouk Ma Yak is an integrated eService for newborn Emiratis."}, {"question": "For employees of the federal government, what additional benefits can be applied for through the Mabrouk Ma Yak service, apart from the newborn's identification documents?", "answer": "Paternity and maternity leaves and child allowance", "context": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak"}, {"question": "What is the timeframe within which a father must apply for the Mabrouk Ma Yak service after the birth of his child?", "answer": "3 months", "context": "https://mohap.gov.ae/en/about-us/projects-and-initiatives/mabrouk-ma-yak - The father must apply for it within 3 months from the date of the baby's birth"}, {"question": "What condition does MOHAP impose on a private health facility regarding the employment of nurses in relation to doctors?", "answer": "The facility must have one registered nurse for every two doctors employed.", "context": "https://mohap.gov.ae/en/services/re-licensing-of-a-doctor"}, {"question": "What is the fine structure if a health facility delays license renewal?", "answer": "25% of the facility's base fee for every 30 days of delay, up to six months. After six months, the license is cancelled", "context": "https://mohap.gov.ae/en/services/renewal-of-a-private-medical-facility-license"}
+]
