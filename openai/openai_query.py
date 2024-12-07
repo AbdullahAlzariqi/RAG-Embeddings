@@ -17,17 +17,9 @@ embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 vector_store = PineconeVectorStore(index=index, embedding=embeddings)
 
 results = vector_store.similarity_search(
-    "What are the fees for medical attestation. Is there any name for this service?",
-    k=5,
+    "What are the required documents to apply for the service the enables employees to apply and approve their applications but for private entity employees? ",
+    k=10,
 )
-print("results", results)
-data_json = []
-for res in results:
-    data_json.append({"text":res.page_content,"metadata":""})
-    print(f"* {res.page_content} [{res.metadata}]")
-
-json_object = json.dumps(data_json, indent=2)
- 
-# Writing to sample.json
-with open("./results/open_ai_results.json", "w") as outfile:
-    outfile.write(json_object)
+print("results length", len(results))
+for result in results:
+    print(f"id : {result.id}, \nsource : {result.metadata["source"]}\nContent : {result.page_content}")

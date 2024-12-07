@@ -9,7 +9,7 @@ load_dotenv()
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=pinecone_api_key)
 
-index_name = "gemini-test-full"
+index_name = "gemini-test"
 index = pc.Index(index_name)
 
 embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", api_key=os.getenv("GOOGLE_API_KEY"), task_type="retrieval_document")
@@ -17,17 +17,22 @@ embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", api
 vector_store = PineconeVectorStore(index=index, embedding=embeddings)
 
 results = vector_store.similarity_search(
-    "What are the fees for medical attestation. Is there any name for this service?",
-    k=5,
+    " What are the required documents to apply for the service the enables employees to apply and approve their applications but for private entity employees? ",
+    k=10,
 )
 print("results length", len(results))
-data_json = []
-for res in results:
-    data_json.append({"text":res.page_content,"metadata":""})
-    print(f"* {res.page_content} [{res.metadata}]")
+for result in results:
+    print(f"id : {result.id}, \nsource : {result.metadata["source"]}\nContent : {result.page_content}")
 
-json_object = json.dumps(data_json, indent=2)
+# data_json = []
+# for res in results:
+#     data_json.append({"text":res.page_content,"metadata":""})
+#     print(f"* {res.page_content} [{res.metadata}]")
+
+# json_object = json.dumps(data_json, indent=2)
  
-# Writing to sample.json
-with open("./results/results.json", "w") as outfile:
-    outfile.write(json_object)
+# # Writing to sample.json
+# with open("./results/results.json", "w") as outfile:
+#     outfile.write(json_object)
+
+

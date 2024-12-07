@@ -1,33 +1,29 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_cohere import CohereEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from dotenv import load_dotenv
 import os
-import numpy as np
-from langchain_core.documents import Document
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
+from collections import Counter
 from langchain_core.documents import Document
 import json
 from pathlib import Path
 
-
-load_dotenv()
-
-embeddings = CohereEmbeddings(model="embed-multilingual-v3.0", cohere_api_key=os.getenv("COHERE_API_KEY"))
+path = Path("url_content_mapping.json")
 
 
 
-# Load example document
-with open("Cleaned_MOHAP.txt", encoding='utf-8') as f:
-    MOHAP_data = f.read()
+embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", api_key=os.getenv("GOOGLE_API_KEY"),
+                                           task_type="QUESTION_ANSWERING")
 
 text_splitter = RecursiveCharacterTextSplitter(
     # Set a really small chunk size, just to show.
     chunk_size=1000,
     chunk_overlap=200,
-    is_separator_regex=False,)
+    is_separator_regex=False,
+)
 
-path = Path("url_content_mapping.json")
+
 
 with path.open('r', encoding='utf-8') as file:
   data = json.load(file)
@@ -45,13 +41,13 @@ for item in data:
 print(len(docs))
 print(docs[0])
 
-
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 
-index_name = "cohere-test"  
+index_name = "gemini-test"  
 
 index = pc.Index(index_name)
 vector_store = PineconeVectorStore(index=index, embedding=embeddings)
+
 
 
 
